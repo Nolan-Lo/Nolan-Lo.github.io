@@ -4,6 +4,6 @@ excerpt: "An interactive app that lets you pick any MLB pitcher and visualize th
 collection: portfolio
 ---
 
-```{r, out.width =  "100%"}
-knitr::include_app("https://nolanlo.shinyapps.io/Pitcher_Analysis_App/")
-```
+### Pitcher Analysis App
+
+<iframe src="https://nolanlo.shinyapps.io/Pitcher_Analysis_App/" width="100%" height="800" frameborder="0"></iframe>
