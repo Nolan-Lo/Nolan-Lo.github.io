@@ -8,6 +8,7 @@ main:
 
   - title: "CV"
     url: /files/Resume - Baseball.pdf
+    target: "_blank"
     
   - title: "Portfolio"
     url: /portfolio/
