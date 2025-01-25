@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Pitcher Analysis App"
+excerpt: "An interactive app that lets you pick any MLB pitcher and visualize their pitch tendencies, location patterns under specific scenarios, progression metrics, and percentile rankings.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
