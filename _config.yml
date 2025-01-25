@@ -21,7 +21,7 @@ repository               : "Nolan-Lo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile Photo.jpg"
+  avatar           : "Profile Photo Cropped.jpg"
   name             : "Nolan Lo"
   pronouns         : # example: "he/him"  
   bio              : "Data Science Masters Student"
