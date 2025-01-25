@@ -8,6 +8,7 @@ collection: portfolio
 
 <iframe src="https://nolanlo.shinyapps.io/Pitcher_Analysis_App/" width="100%" height="800" style="max-width: 1200px; margin: 0 auto; display: block;" frameborder="0"></iframe>
 The embedding of the Shiny app above may distort some of the visualizations. Alternatively, [click here to open the Pitcher Analysis App in your own browser tab](https://nolanlo.shinyapps.io/Pitcher_Analysis_App/).
+
 ---
 
 ### Explanation of the App
@@ -26,7 +27,7 @@ In the **Pitch Breakdown** tab, you can explore how a pitcher performs under spe
 
 This tab is great for identifying a pitcher’s preferences and tendencies in specific scenarios.
 
-![Pitch Breakdown Visualization]('/images/Strikezone_Count.png')
+![Pitch Breakdown Visualization](/images/Strikezone_Count.png)
 
 ---
 
@@ -37,7 +38,7 @@ The **Release/Movement** tab provides a detailed analysis of the pitcher's relea
 
 These visualizations help to understand how a pitcher’s mechanics and pitch movement contribute to their effectiveness.
 
-![Release and Movement Visualization]('/images/Movement_Matrix.png')
+![Release and Movement Visualization](/images/Movement_Matrix.png)
 
 ---
 
@@ -49,7 +50,7 @@ The **Velo/Arsenal Progression** tab tracks a pitcher’s velocity and pitch ars
 
 These graphs offer valuable insights into a pitcher’s endurance, seasonal trends, and pitch selection strategies.
 
-![Velo and Arsenal Progression Visualization]('/images/Velocity_Graph.png')
+![Velo and Arsenal Progression Visualization](/images/Velocity_Graph.png)
 
 ---
 
@@ -65,5 +66,5 @@ The **Percentile Rankings** tab allows you to compare a pitcher’s metrics to o
 
 This tab provides a comprehensive overview of how a pitcher stacks up against their peers.
 
-![Percentile Rankings Visualization]('/images/Stats_Rankings2.png')
-![Percentile Rankings Visualization]('/images/Pitch_Rankings.png')
+![Percentile Rankings Visualization](/images/Stats_Rankings2.png)
+![Percentile Rankings Visualization](/images/Pitch_Rankings.png)
