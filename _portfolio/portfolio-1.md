@@ -66,5 +66,6 @@ The **Percentile Rankings** tab allows you to compare a pitcher’s metrics to o
 
 This tab provides a comprehensive overview of how a pitcher stacks up against their peers.
 
+![Percentile Rankings Visualization](/images/Stats_Rankings1.png)
 ![Percentile Rankings Visualization](/images/Stats_Rankings2.png)
 ![Percentile Rankings Visualization](/images/Pitch_Rankings.png)
