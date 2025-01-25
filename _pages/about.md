@@ -22,7 +22,7 @@ redirect_from:
 
 
 ## Skills
-#### I have hands-on experience with all of the skills below, developed through academics, professional work, and personal projects.
+#### I have hands-on experience with all of the skills below through means of academics, professional work, and/or personal projects.
 - **Programming Languages**: R, Python, SQL
 - **Software**: SQLite, Spark, MapReduce, Excel
 - **Concepts**: Machine Learning, Data Analysis, Advanced Statistics, Sabermetrics
