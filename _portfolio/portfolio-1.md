@@ -6,9 +6,7 @@ collection: portfolio
 
 ### Pitcher Analysis App
 
-<div style="position: relative; padding-bottom: 75%; height: 0; overflow: hidden; max-width: 1200px; margin: 0 auto;">
-  <iframe src="https://nolanlo.shinyapps.io/Pitcher_Analysis_App/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0"></iframe>
-</div>
+<iframe src="https://nolanlo.shinyapps.io/Pitcher_Analysis_App/" width="100%" height="800" style="max-width: 1200px; margin: 0 auto; display: block;" frameborder="0"></iframe>
 The embedding of the Shiny app above may distort some of the visualizations. Alternatively, [click here to open the Pitcher Analysis App in your own browser tab](https://nolanlo.shinyapps.io/Pitcher_Analysis_App/).
 ---
 
