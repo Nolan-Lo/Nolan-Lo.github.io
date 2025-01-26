@@ -1,9 +1,6 @@
 ---
 title: "Using Machine Learning to Explore Statcast Data"
-excerpt: "Using machine learning, I answered and explored the following 3 questions. 
-- Can pitch characteristics like velocity, spin rate, location, and pitch type predict batter whiff rates?
-- Can we use inherently talent based metrics like bat speed and swing length to predict batter success?
-- How do pitch selection and pitch effectiveness vary by inning and game state?"
+excerpt: "Using machine learning, I explored three key questions: (1) Can pitch characteristics like velocity, spin rate, location, and pitch type predict batter whiff rates? (2) Can talent-based metrics like bat speed and swing length predict batter success? (3) How do pitch selection and effectiveness vary by inning and game state?"
 collection: portfolio
 ---
 
