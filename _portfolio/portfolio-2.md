@@ -12,4 +12,4 @@ collection: portfolio
 
 Click the link below to view the full project report as a PDF:
 
-[View Full Project Report (PDF)](/files/Using_ML_to_Explore_Statcast.pdf)
+<a href="/files/Using_ML_to_Explore_Statcast.pdf" target="_blank">View Full Project Report (PDF)</a>
