@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-📚 I am a graduate student in Data Science at UC San Diego, where I also earned my bachelor's degree🎓 in Statistics.
+📚 I am a graduate student in Data Science at UC San Diego, where I also earned my bachelor's degree in Statistics.
 
-🔬 My research interests lie in leveraging data analysis and machine learning techniques to drive insights and innovation in sports analytics, with my favorite sports being baseball⚾, basketball🏀, football🏈, and mixed martial arts🥊.
+🔬 My research interests lie in leveraging data analysis and machine learning techniques to drive insights and innovation in sports analytics, with my favorite sports being baseball, basketball, football, and mixed martial arts.
 
 
 ## Work Experience
