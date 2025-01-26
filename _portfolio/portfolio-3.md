@@ -4,8 +4,6 @@ excerpt: "Engineered and implemented a new statistical metric, aFIP (adjusted FI
 collection: portfolio
 ---
 
-## Using Machine Learning to Explore Statcast Data
-
 Click the link below to view the full project:
 
 [View Full Project Report (Shiny App)](https://nolanlo.shinyapps.io/Improved_FIP/ )
