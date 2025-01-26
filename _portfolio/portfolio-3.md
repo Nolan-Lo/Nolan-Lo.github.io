@@ -4,6 +4,8 @@ excerpt: "Engineered and implemented a new statistical metric, aFIP (adjusted FI
 collection: portfolio
 ---
 
+
+
 Click the link below to view the full project:
 
-[View Full Project Report (Shiny App)](https://nolanlo.shinyapps.io/Improved_FIP/ )
+<a href="https://nolanlo.shinyapps.io/Improved_FIP/" target="_blank">View Full Project Report (Shiny App)</a>
