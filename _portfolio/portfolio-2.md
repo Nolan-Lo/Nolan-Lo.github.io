@@ -8,6 +8,8 @@ excerpt: |
 collection: portfolio
 ---
 
+<br>
+
 Click the link below to view the full project report as a PDF:
 
 [View Full Project Report (PDF)](/files/Using_ML_to_Explore_Statcast.pdf)
