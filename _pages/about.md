@@ -26,4 +26,4 @@ redirect_from:
 - **Programming Languages**: R, Python, SQL
 - **Software**: SQLite, Spark, MapReduce, Excel
 - **Concepts**: Machine Learning, Data Analysis, Advanced Statistics, Sabermetrics
-- **Presentation and Visualization**: User Interface Design, Data Visualization, Shiny App Development
+- **Presentation and Communication**: User Interface Design, Data Visualization, Shiny App Development
