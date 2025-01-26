@@ -7,9 +7,7 @@ excerpt: |
   - How do pitch selection and pitch effectiveness vary by inning and game state?
 collection: portfolio
 ---
-
 <br>
-
 Click the link below to view the full project report as a PDF:
 
 <a href="/files/Using_ML_to_Explore_Statcast.pdf" target="_blank">View Full Project Report (PDF)</a>
