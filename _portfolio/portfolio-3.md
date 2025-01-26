@@ -4,7 +4,7 @@ excerpt: "Engineered and implemented a new statistical metric, aFIP (adjusted FI
 collection: portfolio
 ---
 
-
+<br>
 
 Click the link below to view the full project:
 
