@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Using Machine Learning to Explore Statcast Data"
+excerpt: "Using machine learning, I answered and explored the following 3 questions. o Can pitch characteristics like velocity, spin rate, location, and pitch type predict batter whiff rates? o Can we use inherently talent based metrics like bat speed and swing length to predict batter success? o How do pitch selection and pitch effectiveness vary by inning and game state?"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Using Machine Learning to Explore Statcast Data
+
+Click the link below to view the full project report as a PDF:
+
+[View Full Project Report (PDF)](/files/Project_2.pdf)
