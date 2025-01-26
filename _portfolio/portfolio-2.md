@@ -4,8 +4,6 @@ excerpt: "Using machine learning, I explored three key questions: (1) Can pitch 
 collection: portfolio
 ---
 
-## Using Machine Learning to Explore Statcast Data
-
 Click the link below to view the full project report as a PDF:
 
 [View Full Project Report (PDF)](/files/Using_ML_to_Explore_Statcast.pdf)
