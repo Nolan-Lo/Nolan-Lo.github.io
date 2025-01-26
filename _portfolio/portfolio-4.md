@@ -3,8 +3,7 @@ title: "MLB Similarity Calculator"
 excerpt: "An app to analyze players' season performances and identify historical counterparts with the highest similarity. "
 collection: portfolio
 ---
-
-
+<br><br>
 
 Click the link below to view the full project:
 
