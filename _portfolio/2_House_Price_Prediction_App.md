@@ -4,7 +4,9 @@ excerpt: "An interactive house price prediction app, built with Shiny and powere
 collection: portfolio
 ---
 <br>
-Click the link below to view the full project:
+## House Price Prediction App
 
-<a href="https://nolanlo.shinyapps.io/Improved_FIP/" target="_blank">View Full Project Report (Shiny App)</a>
+<iframe src="https://nolanlo.shinyapps.io/House_Price_Prediction/" width="100%" height="800" style="max-width: 1200px; margin: 0 auto; display: block;" frameborder="0"></iframe>
+The embedding of the Shiny app above may distort some of the visualizations. Alternatively, [click here to open the Pitcher Analysis App in your own browser tab](https://nolanlo.shinyapps.io/House_Price_Prediction/).
 
+---
