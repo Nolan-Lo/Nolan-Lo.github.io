@@ -3,9 +3,7 @@ title: "Pitcher Analysis App"
 excerpt: "An interactive app that lets you pick any MLB pitcher and visualize their pitch tendencies, location patterns under specific scenarios, progression metrics, and percentile rankings.<br/><img src='/images/Strikezone_Count.png'>"
 collection: portfolio
 ---
-
-## Pitcher Analysis App
-(Make sure to select a Pitch Type in order to see the strikezone visualization) 
+(Wait a few seconds for the app to load. Make sure to select a Pitch Type in order to see the strikezone visualization) 
 
 <iframe src="https://nolanlo.shinyapps.io/Pitcher_Analysis_App/" width="100%" height="800" style="max-width: 1200px; margin: 0 auto; display: block;" frameborder="0"></iframe>
 The embedding of the Shiny app above may distort some of the visualizations. Alternatively, [click here to open the Pitcher Analysis App in your own browser tab](https://nolanlo.shinyapps.io/Pitcher_Analysis_App/).
