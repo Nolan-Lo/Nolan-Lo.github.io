@@ -65,5 +65,5 @@ While the model performs well, there are several areas where further improvement
   - Incorporating Batter Data: Understanding batter tendencies, such as chase rates and swing decisions, could improve pitch recommendations.
 
 ## Full Repository and Notebook
-[Click here to open the repository for this project, where you can find the entire notebook for all the code used.](https://github.com/Nolan-Lo/Optimal_Pitch_Prediction_Model).
+[Click here to open the repository for this project, where you can find the entire notebook and all the code used.](https://github.com/Nolan-Lo/Optimal_Pitch_Prediction_Model).
 
