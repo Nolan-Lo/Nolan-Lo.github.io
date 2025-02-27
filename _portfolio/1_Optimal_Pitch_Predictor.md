@@ -64,3 +64,6 @@ While the model performs well, there are several areas where further improvement
       - Example: Including previous pitch result (e.g., was the previous pitch a WHIFF, foul ball, or ball in play?) could improve decision-making.
   - Incorporating Batter Data: Understanding batter tendencies, such as chase rates and swing decisions, could improve pitch recommendations.
 
+## Full Repository and Notebook
+[click here to open the repository for this project, where you can find the entire notebook for all the code used.](https://github.com/Nolan-Lo/Optimal_Pitch_Prediction_Model).
+
