@@ -20,7 +20,8 @@ The model is trained on Statcast data, which tracks every pitch thrown throughou
   - Target variable: A boolean indicating whether the pitch resulted in a WHIFF or a called strike.
 After performing feature engineering and data preprocessing, the dataset is ready for model training and evaluation.
 
-* For reference, below are the different zones used by baseball savant and statcast (Catcher's POV).
+For reference, below are the different zones used by statcast (Catcher's POV).
+
 <img src="/images/Zone.png" alt="SHAP Summary Plot" width="400">
 
 
