@@ -21,7 +21,7 @@ The model is trained on Statcast data, which tracks every pitch thrown throughou
 After performing feature engineering and data preprocessing, the dataset is ready for model training and evaluation.
 
 * For reference, below are the different zones used by baseball savant and statcast (Catcher's POV).
-<img src="images/Zone.png" alt="SHAP Summary Plot" width="400">
+<img src="/images/Zone.png" alt="SHAP Summary Plot" width="400">
 
 
 ## Model Training and Evaluation
@@ -42,7 +42,7 @@ Brier Score: 0.1579
 
 Below is the SHAP summary plot, which highlights the most influential features in our model’s decision-making process:
 
-<img src="images/SHAP.png" alt="SHAP Summary Plot" width="500">
+<img src="/images/SHAP.png" alt="SHAP Summary Plot" width="500">
 
 Note that different pitchers against different handed batters will produce different metrics. The results of the metrics should determine how much trust is put in the model for a given pitcher, batter combination.
 
@@ -55,7 +55,7 @@ Continuing with the Dylan Cease (vs. left-handed hitters) as an example, we use 
 
 ## Recommended Pitch Selection (Ranked by WHIFF / Called Strike Probability)
 
-<img src="images/Pitches.png" alt="SHAP Summary Plot" width="300">
+<img src="/images/Pitches.png" alt="SHAP Summary Plot" width="300">
 
 ## Potential Improvements
 While the model performs well, there are several areas where further improvements can be made:
