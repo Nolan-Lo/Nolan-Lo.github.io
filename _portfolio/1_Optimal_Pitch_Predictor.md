@@ -3,14 +3,6 @@ title: "Optimal Pitch Prediction Model"
 excerpt: "Using Machine Learning and XGBoost to predict the optimal pitch in a sequence with the goal of inducing a WHIFF or called strike."
 collection: portfolio
 ---
-
-# Optimal Pitch Prediction Model
-
-### A Machine Learning Approach to Baseball
-
-##### Nolan Lo
-##### January 26, 2025
-
 ## Introduction
 Success in pitching is often attributed to velocity, accuracy, and spin rate. However, the true battle between a pitcher and a batter extends beyond raw metrics. The best pitchers don’t just rely on their physical tools—they strategize, outthinking hitters by predicting their expectations and using deception to gain an edge. This psychological chess match, often called the game within the game, is what separates good pitchers from great ones.
 
