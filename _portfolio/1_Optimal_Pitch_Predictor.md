@@ -1,3 +1,9 @@
+---
+title: "Optimal Pitch Prediction Model"
+excerpt: "Using Machine Learning and XGBoost to predict the optimal pitch in a sequence with the goal of inducing a WHIFF or called strike."
+collection: portfolio
+---
+
 # Optimal Pitch Prediction Model
 
 ### A Machine Learning Approach to Baseball
