@@ -1,3 +1,8 @@
+---
+title: "Amazon Product Rating Predictor"
+excerpt: "This project leverages Amazon product reviews and item metadata to predict customer star ratings by applying sentiment analysis and structured data modeling. To handle the large-scale dataset efficiently, we use PySpark alongside the UCSD Supercomputer. A core component of our approach is understanding which features are significant in predicting customer sentiment, with the added opportunity to deep dive into the metadata such as product category, price, features, and verified purchase status. Beyond developing a prediction model, our goal is to identify features that can signal customer sentiment across various categories price points, and product types."
+collection: portfolio
+---
 # Amazon Product Rating Predictor
 
 ### Abstract
